@@ -1,3 +1,8 @@
+// Adrian Marquez
+// 02/16/2025
+// Module 8.2
+
+// This program reads integers from the user until '0' is entered, and then returns the largest integer.
 import java.util.ArrayList;
 import java.util.Scanner;
 
