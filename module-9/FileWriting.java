@@ -1,3 +1,10 @@
+// Adrian Marquez
+// Module 9.3
+// 02/16/2025
+
+// This program creates a file if it doesn't exist, appends 10 random integers to it, 
+// and then reads and displays the contents of the file.
+
 import java.io.*;
 import java.util.Random;
 
